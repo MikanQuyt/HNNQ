@@ -1,2 +1,1 @@
 # HNNQ
-AI subject project
